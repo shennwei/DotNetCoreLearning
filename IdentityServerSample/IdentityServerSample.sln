@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerCenter", "IdentityServerCenter\IdentityServerCenter.csproj", "{FE6AAC63-6B35-4922-8ED2-70BB9746689D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCredentialApi", "ClientCredentialApi\ClientCredentialApi.csproj", "{BFC40957-68CD-4E37-A648-8B2315321F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6AAC63-6B35-4922-8ED2-70BB9746689D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6AAC63-6B35-4922-8ED2-70BB9746689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6AAC63-6B35-4922-8ED2-70BB9746689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6AAC63-6B35-4922-8ED2-70BB9746689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC40957-68CD-4E37-A648-8B2315321F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC40957-68CD-4E37-A648-8B2315321F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC40957-68CD-4E37-A648-8B2315321F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC40957-68CD-4E37-A648-8B2315321F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2384C05E-FC9A-489B-BF52-DDD764D6CCAB}
+	EndGlobalSection
+EndGlobal
